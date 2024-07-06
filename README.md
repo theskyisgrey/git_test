@@ -2,7 +2,7 @@
 
 ### Encore plus de mots dans les sous-titres
 
-* hh
-* lll
+* tomate
+* patate
 * oeuf
 * lait
